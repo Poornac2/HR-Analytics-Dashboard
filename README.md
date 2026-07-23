@@ -167,6 +167,3 @@ This dashboard supports:
 
 ![Dashboard](Screenshot.png)
 
-## 📷 Dashboard Preview
-
-![Dashboard](Screenshot.png)
